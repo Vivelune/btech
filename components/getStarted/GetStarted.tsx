@@ -1,11 +1,11 @@
 import React from 'react'
 
-const getStarted = () => {
+const GetStarted = () => {
   return (
     <div>
-      
+      getStarted (Hassan) 
     </div>
   )
 }
 
-export default getStarted
+export default GetStarted

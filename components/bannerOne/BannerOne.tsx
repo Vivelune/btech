@@ -1,11 +1,11 @@
 import React from 'react'
 
-const bannerOne = () => {
+const BannerOne = () => {
   return (
     <div>
-      
+      BannerOne(Hassan)
     </div>
   )
 }
 
-export default bannerOne
+export default BannerOne

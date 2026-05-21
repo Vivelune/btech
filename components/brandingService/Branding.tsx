@@ -1,11 +1,11 @@
 import React from 'react'
 
-const branding = () => {
+const Branding = () => {
   return (
     <div>
-      
+      Branding (Alhaji)
     </div>
   )
 }
 
-export default branding
+export default Branding
