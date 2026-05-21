@@ -1,11 +1,11 @@
 import React from 'react'
 
-const digitalMarketing = () => {
+const DigitalMarketing = () => {
   return (
     <div>
-      
+      DigitalMarketing (Hassan)
     </div>
   )
 }
 
-export default digitalMarketing
+export default DigitalMarketing

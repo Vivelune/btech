@@ -1,11 +1,11 @@
 import React from 'react'
 
-const bannerTwo = () => {
+const BannerTwo = () => {
   return (
     <div>
-      
+      BannerTwo (Alhaji)
     </div>
   )
 }
 
-export default bannerTwo
+export default BannerTwo
