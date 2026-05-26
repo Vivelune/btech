@@ -1,4 +1,6 @@
-import React from 'react'
+"use client";
+import React from 'react';
+
 import { FloatingNav } from '../ui/floating-navbar'
 import { Home, User, Mail  } from 'lucide-react';
 
