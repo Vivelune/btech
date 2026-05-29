@@ -1,4 +1,4 @@
-import React from 'react'
+"use client";
 import { Zap, Quote } from 'lucide-react';
 const Testimonial = () => {
   return (
