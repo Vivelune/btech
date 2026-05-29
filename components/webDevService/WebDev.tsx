@@ -1,3 +1,4 @@
+"use client";
 export default function WebDevCard() {
   const features = ["Custom Websites", "E-commerce", "Web Applications", "SEO Optimization"];
 

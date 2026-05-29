@@ -1,3 +1,4 @@
+"use client";
 export default function MobileAppSection() {
   const features = ["iOS Development", "Android Apps", "Cross-Platform", "App Store Optimization"];
 
